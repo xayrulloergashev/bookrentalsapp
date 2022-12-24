@@ -1,0 +1,15 @@
+# kitob ijarasi uchun dastur
+
+################################################################################
+
+#qo'shilgan
+1. kitob modelini yaratish
+2. foydalanuvchi modelini yaratish
+3. ijarachilar modelini yaratish , kitoblarni va userlarni populate qilish
+5. bookStok yaratish va bookdan emas bookStockdandan foydalanish
+6. autorizatsiya va authentifikatsiya
+################################################################################
+
+#qo'shiladi
+7. reflesh token
+4. Hammasi uchun CRUDni yo'lga qo'yish
